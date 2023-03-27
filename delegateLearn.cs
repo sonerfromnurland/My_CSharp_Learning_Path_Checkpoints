@@ -9,7 +9,7 @@
  Source:
 C# 10 and .NET 6 – Modern Cross-Platform Development: Build apps, websites
 Mark J. Price
-https://books.google.com.tr/books?id=OyNMEAAAQBAJ&pg=PA227&lpg=PA227&dq=%22EventHandler?+Shout%22&source=bl&ots=cNReaNfszB&sig=ACfU3U2Eg_3S-IhbU8PBvVGtNiyeej86eQ&hl=en&sa=X&ved=2ahUKEwjL4Mfk6_v9AhUrgf0HHbqJBpUQ6AF6BAgnEAM#v=onepage&q=%22EventHandler%3F%20Shout%22&f=false
+https://books.google.com/books?id=OyNMEAAAQBAJ&pg=PA227&lpg=PA227&dq=%22EventHandler?+Shout%22&source=bl&ots=cNReaNfszB&sig=ACfU3U2Eg_3S-IhbU8PBvVGtNiyeej86eQ&hl=en&sa=X&ved=2ahUKEwjL4Mfk6_v9AhUrgf0HHbqJBpUQ6AF6BAgnEAM#v=onepage&q=%22EventHandler%3F%20Shout%22&f=false
  */
 
 // EventHandler is a DELEGATE !
