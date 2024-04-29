@@ -1,0 +1,2 @@
+https://www.codeproject.com/Articles/5344667/Logging-with-Serilog-in-ASP-NET-Core-Web-API
+https://www.codeproject.com/Articles/5337511/Request-Response-Logging-Middleware-ASP-NET-Core
